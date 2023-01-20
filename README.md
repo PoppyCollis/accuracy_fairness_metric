@@ -21,4 +21,4 @@ https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
 Both datasets include sensitive attributes: ‘sex’ in the Adult dataset and ‘age’ in the German dataset - both of which fall under the category of
 legally protected characteristics in many countries. There is an inherent bias towards the more privileged group in both datasets for male and aged individuals respectively
 
-
+See ML_project_report.pdf for write up of results.
